@@ -41,7 +41,10 @@ What similar apps and websites?
 - https://creately.com/lp/family-tree-creator-online/
 
 How will your project stand out from these other websites?
+- More user friendly 
+- Similar to creately but dedicated to just family trees
 
 ## Open Questions
 
 What questions do you still have? What topics do you need to research more for your project?
+- 
