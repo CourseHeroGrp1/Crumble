@@ -24,12 +24,12 @@ The purpose of this project is to help users easily create and store a family tr
 - Login/Register feature to keep your tree private
 - Search feature to look for people
 - Ability to create multiple trees
-- Ability to add links to specific other people mentioned in description 
-- So when you click their name it takes you to that person
+  - Ability to add links to specific other people mentioned in description 
+  - So when you click their name it takes you to that person
 - Or details about that person
 - Multiple ways to view the tree (STRETCH)
-- Classic tree
-- Compact Tree
+  - Classic tree
+  - Compact Tree
 - Side bar for storing disconnected nodes
 - Little connector circle you can click and drag to connect to another node 
 
