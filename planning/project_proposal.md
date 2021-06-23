@@ -8,7 +8,7 @@ A majority of people don't bother writing down their family history because it i
 
 ## Description
 
-What is the main purpose of your project? What are the key features your site has to offer its users? How will your targeted audience use your website?
+The purpose of this project is to help users easily create and store a family tree. Key features will include the ability to add related family members using a form, adding more details to an individual, and displaying tree using visual nodes and connections. Target users will be able to create family trees and have them stored in a database.
 
 ## Expected Features List
 
