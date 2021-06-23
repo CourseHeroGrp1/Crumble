@@ -1,6 +1,6 @@
 # Project Proposal
 
-Pod Members: **Gevork M**
+Pod Members: **Stephanie Abhiraj Gevork**
 
 ## Problem Statement
 
