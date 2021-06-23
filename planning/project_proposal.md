@@ -1,6 +1,6 @@
 # Project Proposal
 
-Pod Members: **Stephanie Abhiraj Gevork**
+Pod Members: **Stephanie D., Abhiraj C., Gevork M.**
 
 ## Problem Statement
 
@@ -17,6 +17,8 @@ Add a list of your groups's brainstormed features list
 ## Related Work
 
 What similar apps and websites? How will your project stand out from these other websites?
+- https://www.familyecho.com/#
+- https://creately.com/lp/family-tree-creator-online/
 
 ## Open Questions
 
