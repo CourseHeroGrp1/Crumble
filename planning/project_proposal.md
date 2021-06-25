@@ -8,30 +8,32 @@ A majority of people don't bother writing down their family history because it i
 
 ## Description
 
-The purpose of this project is to help users easily create and store a family tree. Key features will include the ability to add related family members using a form, adding more details to an individual, and displaying tree using visual nodes and connections. Target users will be able to create family trees and have them stored in a database.
+The purpose of this project is to help users easily create and store a family tree. Key features will include the ability to add related family members using a form, adding more details to an individual, and displaying tree using visual nodes and connections. Target users will be able to create family trees and have them stored in a database which is easier and more reliable than doing it by hand. 
 
 ## Expected Features List
 
-- Name area
-  - Button for adding parents/children 
-  - Button for adding extra details for person
+- Text Display of each individual's name
+  - Button in each node for adding parents and children of an individual 
+  - Button in each node for adding extra details about an individual
+  - Possible Extra Details:
     - Birthday 
     - Occupation 
     - Physical features
     - Location
-    - Description Area - personal characteristics
-- Color coding each person's node (whether you like them or not XD )
-- Login/Register feature to keep your tree private
-- Search feature to look for people
-- Ability to create multiple trees
-  - Ability to add links to specific other people mentioned in description 
-  - So when you click their name it takes you to that person
-- Or details about that person
-- Multiple ways to view the tree (STRETCH)
+    - Description Area - free write text box
+- Ability to color code each person's node to user's liking
+- Login and Register feature to keep your tree private and saved
+- Search feature to give users the ability to look up specific individuals in the tree
+- Ability to create multiple trees and save them 
+- Ability to drag and connect individual nodes manually to different nodes 
+
+### Stretch
+- If another member in the tree is mentioned in a description, users should be able to click their name and see details about them 
+- Multiple ways to view the tree 
   - Classic tree
   - Compact Tree
-- Side bar for storing disconnected nodes
-- Little connector circle you can click and drag to connect to another node 
+- Side bar for storing disconnected nodes 
+
 
 
 ## Related Work
@@ -47,5 +49,5 @@ How will your project stand out from these other websites?
 ## Open Questions
 
 What questions do you still have? What topics do you need to research more for your project?
-- Draggable elements
+- How to create drag and drop elements in HTML or React?
 - Which functionalities are possible in 6 weeks?
