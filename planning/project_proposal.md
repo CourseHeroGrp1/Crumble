@@ -12,7 +12,7 @@ The purpose of this project is to help users easily create and store a family tr
 
 ## Expected Features List
 
-BASE 1 (Must Haves)
+### BASE 1 (Must Haves)
 - Text Display of each individual's name
   - Button in each node for adding parents and children of an individual
   - Button in each node for adding extra details about an individual
@@ -28,7 +28,7 @@ BASE 1 (Must Haves)
     - Death
 - Login and Register feature to keep your tree private and saved
 
-BASE 2 (Nice to Haves)
+### BASE 2 (Nice to Haves)
 - Search feature 
   - To give users the ability to look up specific individuals in the tree
   - Filter by birthdays (month) and anniversaries
@@ -40,7 +40,7 @@ BASE 2 (Nice to Haves)
   - Color people based on relationship to “me” label
 - Ability to create multiple trees and save them
 
-Stretch (Base 3 aka super nice to haves)
+### Stretch (Base 3 aka super nice to haves)
 - If another member in the tree is mentioned in a description, users should be able to click their name and see details about them
 - Multiple ways to view the tree
   - Classic tree
