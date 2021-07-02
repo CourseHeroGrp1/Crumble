@@ -46,7 +46,7 @@ Stretch (Base 3 aka super nice to haves)
   - Classic tree
   - Compact Tree
 - Side bar for storing disconnected nodes
-- tree to graph
+- Tree to graph
 - Organization theme
 
 
