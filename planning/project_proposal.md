@@ -12,8 +12,9 @@ The purpose of this project is to help users easily create and store a family tr
 
 ## Expected Features List
 
+BASE 1 (Must Haves)
 - Text Display of each individual's name
-  - Button in each node for adding parents and children of an individual 
+  - Button in each node for adding parents and children of an individual
   - Button in each node for adding extra details about an individual
   - Possible Extra Details:
     - Birthday 
@@ -21,19 +22,32 @@ The purpose of this project is to help users easily create and store a family tr
     - Physical features
     - Location
     - Description Area - free write text box
-- Ability to color code each person's node to user's liking
+    - Contact details
+    - Images
+    - Anniversary date
+    - Death
 - Login and Register feature to keep your tree private and saved
-- Search feature to give users the ability to look up specific individuals in the tree
-- Ability to create multiple trees and save them 
-- Ability to drag and connect individual nodes manually to different nodes 
 
-### Stretch
-- If another member in the tree is mentioned in a description, users should be able to click their name and see details about them 
-- Multiple ways to view the tree 
+BASE 2 (Nice to Haves)
+- Search feature 
+  - To give users the ability to look up specific individuals in the tree
+  - Filter by birthdays (month) and anniversaries
+- Ability to color code each person's node to user's liking
+  - Add default color based on gender
+- Generate relationship labels for each individual node
+  - Labels changes based on starting/source label (“me” label)
+  - Filter people out based on relationships
+  - Color people based on relationship to “me” label
+- Ability to create multiple trees and save them
+
+Stretch (Base 3 aka super nice to haves)
+- If another member in the tree is mentioned in a description, users should be able to click their name and see details about them
+- Multiple ways to view the tree
   - Classic tree
   - Compact Tree
-- Side bar for storing disconnected nodes 
-
+- Side bar for storing disconnected nodes
+- tree to graph
+- Organization theme
 
 
 ## Related Work
