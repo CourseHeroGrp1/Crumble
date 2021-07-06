@@ -48,6 +48,9 @@ The purpose of this project is to help users easily create and store a family tr
 - Side bar for storing disconnected nodes
 - Tree to graph
 - Organization theme
+- Searching for persons name brings up all trees that person is a part of
+- Sort trees by name, date, created at
+- List view and grid view for trees
 
 
 ## Related Work
