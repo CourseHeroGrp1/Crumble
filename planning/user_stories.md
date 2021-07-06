@@ -9,7 +9,7 @@ A majority of people don't bother writing down their family history because it i
 ## User Roles
 
 - Individual: a user who wants to be productive in their daily lives with the help of our application.
-- 
+
 ## User Personas
 
 - Billy is a sophomore who goes to UCLA. Billy is a Computer Science student and wants to manage the different projects/assignments along with preparing for technical interviews. In order to be productive and not procrastinate, Billy wants to have a central manager which has all his notes and information for each of his classes.
