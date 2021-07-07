@@ -46,7 +46,6 @@ Login/Register page
 :-------------------------:
 <img src="wireframes/login_register.png" width=500><br>
 
-
 Tabs Overview page    
 :-------------------------:
 <img src="wireframes/tab_overview.png" width=500><br> 
@@ -55,10 +54,10 @@ Tab page
 :-------------------------:
 <img src="wireframes/tab.png" width=500><br>
 
-
 Pomodoro Timer page
 :-------------------------:
 <img src="wireframes/pomodoro.png" width=500><br>
+
 
 ## Data Model
 
@@ -66,10 +65,10 @@ Pomodoro Timer page
 Name |  Type  | Description
 :-------------------------:|:-------------------------:|:-------------------------:
 id | SERIAL | primary key
-email | TEXT | email of user, unique
+email | VARCHAR(70) | email of user, unique
 password | TEXT | hashed user password
-first_name | TEXT | user's first name
-last_name | TEXT | user's last name
+first_name | VARCHAR(50) | user's first name
+last_name | VARCHAR(50) | user's last name
 is_admin | BOOLEAN | default false
 created_at | TIMESTAMP | when account was created
 
@@ -78,14 +77,13 @@ Name |  Type  | Description
 :-------------------------:|:-------------------------:|:-------------------------:
 id | SERIAL | primary key
 user_id | INTEGER | foreign key to users
-name | TEXT | name of main tab
+name | VARCHAR(30) | name of main tab
 created_at | TIMESTAMP | when main tab was created
 
 ### subtabs
 Name |  Type  | Description
 :-------------------------:|:-------------------------:|:-------------------------:
 id | SERIAL | primary key
-user_id | INTEGER | foreign key to users
 main_id | INTEGER | foreign key to main tab, possibly null
 sub_id | INTEGER | foreign key to sub tab
 created_at | TIMESTAMP | when sub tab was created
@@ -96,6 +94,7 @@ Name |  Type  | Description
 id | SERIAL | primary key
 sub_id | INTEGER | foreign key to sub tab
 details | VARCHAR(40) | task description
+completed_at | TIMESTAMP | date the task was completed
 created_at | TIMESTAMP | when task was created
 
 ### notes
@@ -112,7 +111,7 @@ Name |  Type  | Description
 :-------------------------:|:-------------------------:|:-------------------------:
 id | SERIAL | primary key
 sub_id | INTEGER | foreign key to sub tab
-event | TEXT | title of event
+event | VARCHAR(20) | title of event
 date | TIMESTAMP | date/deadline of event
 created_at | TIMESTAMP | when calendar was created
 
