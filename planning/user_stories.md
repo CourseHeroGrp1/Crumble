@@ -4,7 +4,7 @@ Pod Members: **Stephanie D., Abhiraj C., Gevork M.**
 
 ## Problem Statement
 
-A majority of people don't bother writing down their family history because it is too tedious or difficult to do it by hand. In addition, they might just want a place to store all their family info (i.e. birthdays, relationships, anniversaries, etc.). A family tree that contains information about each member is a great way to do that.
+Managing multiple assignments/projects can be daunting, and being aware of what needs to be accomplished for each goal is essential for success. Our goal is to provide individuals with a versatile web planner allowing users to stay on top of their work and personal responsibilities.
 
 ## User Roles
 
