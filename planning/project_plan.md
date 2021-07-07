@@ -81,7 +81,7 @@ user_id | INTEGER | foreign key to users
 name | TEXT | name of main tab
 created_at | TIMESTAMP | when main tab was created
 
-### subtabs (todo)
+### subtabs
 Name |  Type  | Description
 :-------------------------:|:-------------------------:|:-------------------------:
 id | SERIAL | primary key
