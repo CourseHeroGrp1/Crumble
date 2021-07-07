@@ -38,7 +38,12 @@ The purpose of this app is to provide users a platform that helps users be more 
 
 ## Pages/Screens
 
-List all the pages and screens in the app. Include wireframes for at least 3 of them.
+### Pages
+- Landing page
+- Tabs overview (main tabs)
+- Tabs (subtabs)
+- Pomodoro Timer
+- Login/Register 
 
 ## Data Model
 
