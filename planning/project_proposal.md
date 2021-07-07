@@ -23,10 +23,8 @@ The purpose of this app is to provide users a platform that helps users be more 
       - Mini Pomodoro Timer (countdown)
 - Calendar
   - Add/delete events
-  - Color code based on priority - goes hand in hand with the todo list color
 - Daily/weekly to-do list
   - Add/delete tasks
-  - Color code based on priority
 - Notes
   - Add/delete notes
 - Pomodoro Timer
@@ -35,6 +33,14 @@ The purpose of this app is to provide users a platform that helps users be more 
 - Login and Register feature to keep your planner private and saved
 
 ### BASE 2 (Nice to Haves)
+- Calendar
+  - Edit events
+  - Color code based on priority - goes hand in hand with the todo list color
+- Daily/weekly to-do list
+  - Edit tasks
+  - Color code based on priority
+- Notes
+  - Edit notes
 - Personalize Pomodoro Timer
   - set desired minutes and break
 - Have a home calendar that combines all the calendar deadlines and events in each tab
