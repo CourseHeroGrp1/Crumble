@@ -38,12 +38,27 @@ The purpose of this app is to provide users a platform that helps users be more 
 
 ## Pages/Screens
 
-### Pages
-- Landing page
-- Tabs overview (main tabs)
-- Tabs (subtabs)
-- Pomodoro Timer
-- Login/Register 
+Landing page                         
+:-------------------------:
+<img src="wireframes/landing.png" width=500><br>
+
+Login/Register page             
+:-------------------------:
+<img src="wireframes/login_register.png" width=500><br>
+
+
+Tabs Overview page    
+:-------------------------:
+<img src="wireframes/tab_overview.png" width=500><br> 
+
+Tab page            
+:-------------------------:
+<img src="wireframes/tab.png" width=500><br>
+
+
+Pomodoro Timer page
+:-------------------------:
+<img src="wireframes/pomodoro.png" width=500><br>
 
 ## Data Model
 
