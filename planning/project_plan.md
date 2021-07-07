@@ -5,7 +5,7 @@ Pod Members: **Stephanie D., Abhiraj C., Gevork M.**
 ## Problem Statement and Description
 
 ### Problem Statement
-Managing multiple assignments/projects can be daunting, and being aware of what needs to be accomplished for each goal is essential for success. Our goal is to provide individuals with a versatile web planner allowing users to stay on top of their work and personal responsibilities.
+Managing multiple assignments/projects can be difficult and being aware of what needs to be accomplished for each goal is essential for success. Our goal is to provide individuals with a versatile web planner allowing users to stay on top of their responsibilities and to simplify complex tasks by breaking them down into smaller, digestible chunks.
 
 ### Description
 The purpose of this app is to provide users a platform that helps users be more productive and at the same time reminds them to take breaks while working. Key features include adding main tabs and subtabs for each different category of work and using the pomodoro timer to further increase productivity. Each tab contains a calendar side by side with daily/weekly to-do lists, a notes section, and a running timer for the pomodoro.
