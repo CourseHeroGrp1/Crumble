@@ -48,6 +48,7 @@ The purpose of this app is to provide users a platform that helps users be more 
 - Personalize the planner
   - Color scheme
   - Fonts
+- Nesting notes
 
 ### BASE 3 (Stretch aka super nice to haves)
 - Report of pomodoro timer activity
