@@ -4,7 +4,7 @@ Pod Members: **Stephanie D., Abhiraj C., Gevork M.**
 
 ## Problem Statement
 
-Managing multiple assignments/projects can be daunting, and being aware of what needs to be accomplished for each goal is essential for success. Our goal is to provide individuals with a versatile web planner allowing users to stay on top of their work and personal responsibilities.
+Managing multiple assignments/projects can be difficult and being aware of what needs to be accomplished for each goal is essential for success. Our goal is to provide individuals with a versatile web planner allowing users to stay on top of their responsibilities and to simplify complex tasks by breaking them down into smaller, digestible chunks.
 
 ## Description
 
@@ -51,6 +51,7 @@ The purpose of this app is to provide users a platform that helps users be more 
 
 ### BASE 3 (Stretch aka super nice to haves)
 - Report of pomodoro timer activity
+- Assigning tasks to other people (organization)
 - Integrate course hero?
 
 
