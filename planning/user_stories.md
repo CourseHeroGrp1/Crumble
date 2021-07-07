@@ -4,7 +4,8 @@ Pod Members: **Stephanie D., Abhiraj C., Gevork M.**
 
 ## Problem Statement
 
-Managing multiple assignments/projects can be difficult and being aware of what needs to be accomplished for each goal is essential for success. Our goal is to provide individuals with a versatile web planner allowing users to stay on top of their responsibilities and to simplify complex tasks by breaking them down into smaller, digestible chunks.
+Managing large-scale projects or assignments is difficult due to complex scope and competing priorities. Our goal is to provide a versatile web planning tool that allows users to easily view their deadlines/deliverables by organizing large assignments into smaller, digestible tasks.
+
 
 ## User Roles
 
