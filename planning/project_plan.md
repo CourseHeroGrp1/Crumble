@@ -24,16 +24,16 @@ The purpose of this app is to provide users a platform that helps users be more 
 
 ## User Stories
 
-1. As a high school student, I often have trouble managing my schedule and the tasks I have to complete in a day, so it would be nice to have some way to organize my weekly and daily schedule in one place.
-2. As a forgetful person, I want to be able to create customized schedules and to-do-lists for specific projects.
-3. As a busy college student, it would be nice to have a single place where I can store all my notes for a specific class along with customized schedules for each class.
-4. As an office worker, it would be useful to have an easy way to manage my work-rest daily schedule, manage my TODOs, and have an overview of my weekly schedule.
-5. As a project manager, I need a place to quickly write what tasks need to be completed along with having easy access to my documents.
-6. As a software developer, having many tasks to complete can be overwhelming and difficult to keep track of, which is why I would like to be able to set long term and short term goals along with the ability to create custom notes for each assignment. 
-7. As a researcher, it is extremely important to complete tasks on time as well as keeping all my notes organized and easy to access, so it would be nice to have an app where I can do all this in one place. 
-8. As a teenager, my parents give me weekly chores to complete along with daily homework assignments that I have to work on for a set amount of time so it would be nice to have all the tools I need in one place. 
-9. As a secretary, I am constantly busy managing plans and projects, as well as keeping notes about certain events which can become very messy and unorganized at times, so having one place for all my scheduling and note taking associated with specific events/assignments would be helpful. 
-10. As a computer science student, it would be helpful to have a place where I can track which topics I need to review for my technical interviews.  
+1. As a user, I want to be able to organize different projects, classes, and assignments neatly and in an easy to read way.
+2. As a user I want to be able to create my own account to store my private information.
+3. As a user I want to be able to login to view my information.
+4. As a user I want to see my profile page and my projects/assignments.
+5. As a user I want to be able to add events to my calendar which are separated based on my projects.
+6. As a user I want to be able to create a TODO list which I can add tasks to and remove tasks when I complete them.
+7. As a user I want to be able to nest simpler tasks in more complex tasks in order to make them easier to digest.
+8. As a user I want to be able to create notes in each project in order to have them better organized. 
+9. As a user I want to be able to set a work timer to allow me to take needed breaks to increase productivity. 
+10. As a user I want to be able to customize my timer settings to meet my own personal needs. 
 
 
 ## Pages/Screens
@@ -118,6 +118,42 @@ created_at | TIMESTAMP | when calendar was created
 
 ## Endpoints
 
-List the API endpoints you will need to implement.
+### auth
+CRUD |  HTTP Verb  | Description | User stories
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+Create | POST | adding a user | 2
+Create | POST | loggin in a user | 3
+Read | GET | retrieving user information | 4
+
+### tabs
+CRUD |  HTTP Verb  | Description | User stories
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+Create | POST | adding a new main tab | 1
+Delete | DELETE | deleting a main tab | 1
+Read | GET | fetching list of main tabs | 4
+Create | POST | adding a new sub tab | 7
+Delete | DELETE | deleting a sub tab | 7
+Read | GET | fetching list of sub tabs |  4
+
+### todo 
+CRUD |  HTTP Verb  | Description | User stories
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+Create | POST | adding a new todo | 6
+Delete | DELETE | deleting a todo | 6
+Read | GET | fetching list of todos | 4
+
+### notes 
+CRUD |  HTTP Verb  | Description | User stories
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+Create | POST | adding a new note | 8
+Delete | DELETE | deleting a note | 8
+Read | GET | fetching list of notes | 4
+
+### calendar 
+CRUD |  HTTP Verb  | Description | User stories
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+Create | POST | adding a new event | 5
+Delete | DELETE | deleting an event | 5
+Read | GET | fetching list of events |  4
 
 ***Don't forget to set up your Issues, Milestones, and Project Board!***
