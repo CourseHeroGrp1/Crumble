@@ -53,6 +53,9 @@ The purpose of this app is to provide users a platform that helps users be more 
 - Report of pomodoro timer activity
 - Assigning tasks to other people (organization)
 - Integrate course hero?
+- Spotify
+- More details in calender events (pop up)
+- Generate available open time slots
 
 
 ## Related Work
