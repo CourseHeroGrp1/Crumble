@@ -70,7 +70,6 @@ email | TEXT | email of user, unique
 password | TEXT | hashed user password
 first_name | TEXT | user's first name
 last_name | TEXT | user's last name
-is_premium | BOOLEAN | default false
 is_admin | BOOLEAN | default false
 created_at | TIMESTAMP | when account was created
 
@@ -82,13 +81,39 @@ user_id | INTEGER | foreign key to users
 name | TEXT | name of main tab
 created_at | TIMESTAMP | when main tab was created
 
-### subtabs
+### subtabs (todo)
 Name |  Type  | Description
 :-------------------------:|:-------------------------:|:-------------------------:
 id | SERIAL | primary key
 user_id | INTEGER | foreign key to users
 main_id | INTEGER | foreign key to main tab, possibly null
 sub_id | INTEGER | foreign key to sub tab
+created_at | TIMESTAMP | when main tab was created
+
+### tasks
+Name |  Type  | Description
+:-------------------------:|:-------------------------:|:-------------------------:
+id | SERIAL | primary key
+sub_id | INTEGER | foreign key to sub tab
+details | VARCHAR(40) | task description
+created_at | TIMESTAMP | when main tab was created
+
+### notes
+Name |  Type  | Description
+:-------------------------:|:-------------------------:|:-------------------------:
+id | SERIAL | primary key
+sub_id | INTEGER | foreign key to sub tab
+title | VARCHAR(20) | notes title
+details | TEXT | notes description
+created_at | TIMESTAMP | when main tab was created
+
+### calendar
+Name |  Type  | Description
+:-------------------------:|:-------------------------:|:-------------------------:
+id | SERIAL | primary key
+sub_id | INTEGER | foreign key to sub tab
+event | TEXT | title of event
+date | TIMESTAMP | date/deadline of event
 created_at | TIMESTAMP | when main tab was created
 
 
