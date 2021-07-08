@@ -22,7 +22,7 @@ The purpose of this app is to provide users a platform that helps users be more 
       - Notes
       - Mini Pomodoro Timer (countdown)
 - Calendar
-  - Add/delete events
+  - Add/delete events (list view)
 - Daily/weekly to-do list
   - Add/delete tasks
 - Notes
@@ -36,6 +36,7 @@ The purpose of this app is to provide users a platform that helps users be more 
 - Calendar
   - Edit events
   - Color code based on priority - goes hand in hand with the todo list color
+  - Google calendar based on google user signed in
 - Daily/weekly to-do list
   - Edit tasks
   - Color code based on priority
@@ -51,12 +52,15 @@ The purpose of this app is to provide users a platform that helps users be more 
 - Nesting notes
 
 ### BASE 3 (Stretch aka super nice to haves)
+- Calendar
+  - Add/delete events on a grid view calendar
+  - Edit events
 - Report of pomodoro timer activity
 - Assigning tasks to other people (organization)
-- Integrate course hero?
-- Spotify
+- Integrate Spotify
 - More details in calender events (pop up)
 - Generate available open time slots
+- Integrate course hero?
 
 
 ## Related Work
