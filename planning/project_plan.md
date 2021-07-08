@@ -84,7 +84,7 @@ created_at | TIMESTAMP | when main tab was created
 Name |  Type  | Description
 :-------------------------:|:-------------------------:|:-------------------------:
 id | SERIAL | primary key
-main_id | INTEGER | foreign key to main tab
+main_id | INTEGER | foreign key to main tab, possibly null
 sub_id | INTEGER | foreign key to sub tab, possibly null
 created_at | TIMESTAMP | when sub tab was created
 
