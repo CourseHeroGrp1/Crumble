@@ -131,9 +131,11 @@ CRUD |  HTTP Verb  | Description | User stories
 Create | POST | adding a new main tab | 1
 Delete | DELETE | deleting a main tab | 1
 Read | GET | fetching list of main tabs | 4
+Read | GET | fetch main tab based on main_id | 4
 Create | POST | adding a new sub tab | 7
 Delete | DELETE | deleting a sub tab | 7
-Read | GET | fetching list of sub tabs |  4
+Read | GET | fetching list of sub tabs | 4
+Read | GET | fetching sub tab based on sub_id | 4
 
 ### todo 
 CRUD |  HTTP Verb  | Description | User stories
