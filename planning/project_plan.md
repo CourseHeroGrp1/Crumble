@@ -154,6 +154,6 @@ CRUD |  HTTP Verb  | Description | User stories
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 Create | POST | adding a new event | 5
 Delete | DELETE | deleting an event | 5
-Read | GET | fetching list of events |  4
+Read | GET | fetching list of events | 4
 
 ***Don't forget to set up your Issues, Milestones, and Project Board!***
