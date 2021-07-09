@@ -13,7 +13,11 @@ Mentors Names: **Insert Professional Mentor Names**
 
 ## Project Overview
 
-Add a quick summary of what your project theme and objectives are. 
+### Problem Statement
+  - Managing large-scale projects or assignments is difficult due to complex scope and competing priorities. Our goal is to provide a versatile web planning tool that allows users to easily view their deadlines/deliverables by organizing large assignments into smaller, digestible tasks.
+
+### Description
+  - The purpose of this app is to provide users a platform that helps users be more productive and at the same time reminds them to take breaks while working. Key features include adding main tabs and subtabs for each different category of work and using the pomodoro timer to further increase productivity. Each tab contains a calendar side by side with daily/weekly to-do lists, a notes section, and a running timer for the pomodoro.
 
 Deployment Website: **Add Link to Deployed Project**
 
