@@ -54,6 +54,10 @@ Tab page
 :-------------------------:
 <img src="wireframes/tab.png" width=500><br>
 
+Tab page w/ directory           
+:-------------------------:
+<img src="wireframes/tab_directory.png" width=500><br>
+
 Pomodoro Timer page
 :-------------------------:
 <img src="wireframes/pomodoro.png" width=500><br>
@@ -158,4 +162,4 @@ Create | POST | adding a new event | 5
 Delete | DELETE | deleting an event | 5
 Read | GET | fetching list of events | 4
 
-***Don't forget to set up your Issues, Milestones, and Project Board!***
+***Completed our set up of our Issues, Milestones, and Project Board!***
