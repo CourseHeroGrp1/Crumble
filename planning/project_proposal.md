@@ -22,8 +22,6 @@ The purpose of this app is to provide users a platform that helps users be more 
       - Notes
       - Mini Pomodoro Timer (countdown)
       - Directory
-- Calendar
-  - Add/delete events (list view)
 - Daily/weekly to-do list
   - Add/delete tasks
 - Notes
