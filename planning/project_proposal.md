@@ -26,9 +26,6 @@ The purpose of this app is to provide users a platform that helps users be more 
   - Add/delete tasks
 - Notes
   - Add/delete notes
-- Pomodoro Timer
-  - Start/pause timer
-  - Notifications to stop
 - Login and Register feature to keep your planner private and saved
 
 ### BASE 2 (Nice to Haves)
@@ -41,6 +38,9 @@ The purpose of this app is to provide users a platform that helps users be more 
   - Color code based on priority
 - Notes
   - Edit notes
+- Pomodoro Timer
+  - Start/pause timer
+  - Notifications to stop
 - Personalize Pomodoro Timer
   - set desired minutes and break
 - Have a home calendar that combines all the calendar deadlines and events in each tab
