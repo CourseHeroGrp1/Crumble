@@ -59,7 +59,6 @@ The purpose of this app is to provide users a platform that helps users be more 
 - Integrate Spotify
 - More details in calender events (pop up)
 - Generate available open time slots
-- Integrate course hero?
 
 
 ## Related Work
