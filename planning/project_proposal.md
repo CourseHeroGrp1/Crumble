@@ -20,7 +20,6 @@ The purpose of this app is to provide users a platform that helps users be more 
       - Calendar
       - Daily/weekly to-do list
       - Notes
-      - Mini Pomodoro Timer (countdown)
       - Directory
   - Add/delete maintabs
 - Daily/weekly to-do list
@@ -46,6 +45,7 @@ The purpose of this app is to provide users a platform that helps users be more 
 - Pomodoro Timer
   - Start/pause timer
   - Notifications to stop
+  - Mini Pomodoro Timer (countdown) in tab page
 
 ### BASE 3 (Stretch aka super nice to haves)
 - Personalize Pomodoro Timer
