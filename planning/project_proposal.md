@@ -22,17 +22,22 @@ The purpose of this app is to provide users a platform that helps users be more 
       - Notes
       - Mini Pomodoro Timer (countdown)
       - Directory
+  - Add/delete maintabs
 - Daily/weekly to-do list
   - Add/delete tasks
+  - Add/delete subtabs
 - Notes
   - Add/delete notes
 - Login and Register feature to keep your planner private and saved
 
 ### BASE 2 (Nice to Haves)
+- Subtabs
+  - Edit name
+- Maintabs
+  - Edit name
 - Calendar
   - Edit events
   - Color code based on priority - goes hand in hand with the todo list color
-  - Google calendar based on google user signed in
 - Daily/weekly to-do list
   - Edit tasks
   - Color code based on priority
@@ -41,6 +46,8 @@ The purpose of this app is to provide users a platform that helps users be more 
 - Pomodoro Timer
   - Start/pause timer
   - Notifications to stop
+
+### BASE 3 (Stretch aka super nice to haves)
 - Personalize Pomodoro Timer
   - set desired minutes and break
 - Have a home calendar that combines all the calendar deadlines and events in each tab
@@ -49,8 +56,6 @@ The purpose of this app is to provide users a platform that helps users be more 
   - Color scheme
   - Fonts
 - Nesting notes
-
-### BASE 3 (Stretch aka super nice to haves)
 - Calendar
   - Add/delete events on a grid view calendar
   - Edit events
