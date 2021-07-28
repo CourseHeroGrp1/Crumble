@@ -37,6 +37,7 @@ The purpose of this app is to provide users a platform that helps users be more 
 - Calendar
   - Edit events
   - Color code based on priority - goes hand in hand with the todo list color
+  - More details in calender events (pop up)
 - Daily/weekly to-do list
   - Edit tasks
   - Color code based on priority
@@ -55,14 +56,11 @@ The purpose of this app is to provide users a platform that helps users be more 
 - Personalize the planner
   - Color scheme
   - Fonts
-- Nesting notes
 - Calendar
   - Add/delete events on a grid view calendar
-  - Edit events
 - Report of pomodoro timer activity
 - Assigning tasks to other people (organization)
 - Integrate Spotify
-- More details in calender events (pop up)
 - Generate available open time slots
 
 
