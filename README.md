@@ -9,7 +9,10 @@ Team Member Names:
 - **Stephanie De Leon**
 - **Gevork Manukyan**
 
-Mentors Names: **Insert Professional Mentor Names**
+Mentors Names: 
+- **Theja Vangumalli**
+- **Vasanthi Vuppuluri**
+- **Dayne Bratsman**
 
 ## Project Overview
 
