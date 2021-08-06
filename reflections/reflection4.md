@@ -23,6 +23,7 @@ Pod Members: **Stephanie D., Abhiraj C., Gevork M.**
   - Syncing tasks and the calendar
   - Back and forth button for history
   - Deploying the website (frontend issues)
+  - Making cursor auto-focus into text boxes
 
 * Did you finish all of your tasks in your sprint plan for this week? If you did not finish all of the planned tasks what were some factors that contributed to this?  (i.e over planned, did not know how to implement certain features, miscommunication from the team, had to pivot from original plans, etc.)
 
