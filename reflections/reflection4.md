@@ -13,6 +13,7 @@ Pod Members: **Stephanie D., Abhiraj C., Gevork M.**
   - Implemented the back and forth arrows for history 
   - Added tags for subtabs and additional notes for events
   - Deployed the website for bug bash
+  - Sorted completed and not completed components
   - Added a view option for calendar, todo, and subtabs
   - Styled the About page, notes, and minor changes in landing page
 
