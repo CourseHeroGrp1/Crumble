@@ -24,8 +24,7 @@ Mentors Names:
 
 Deployment Website (currently down): **https://www.crumbleplan.com/**
 
-#### Front-End
-**https://github.com/CourseHeroGrp1/crumble_frontend**
+#### Front-End: **https://github.com/CourseHeroGrp1/crumble_frontend**
 
 #### Back-end
 **https://github.com/CourseHeroGrp1/crumble_api**
